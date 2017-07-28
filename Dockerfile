@@ -1,4 +1,4 @@
-FROM containerstack/debian:jessie
+FROM remonlam/debian-arm:jessie_armv7
 MAINTAINER Remon Lam [remon@containerstack.io]
 
 # persistent / runtime deps
